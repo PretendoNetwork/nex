@@ -1,0 +1,9 @@
+[submodule "nex-go"]
+	path = nex-go
+	url = https://github.com/PretendoNetwork/nex-go
+[submodule "nex-protocols-go"]
+	path = nex-protocols-go
+	url = https://github.com/PretendoNetwork/nex-protocols-go
+[submodule "nex-protocols-common-go"]
+	path = nex-protocols-common-go
+	url = https://github.com/PretendoNetwork/nex-protocols-common-go
